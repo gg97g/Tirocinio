@@ -1,0 +1,16 @@
+{
+    "name": "libreria/provatirocinio-progetto",
+    "type": "library",
+    "description": "Prova per il tirocinio",
+    "keywords": ["PHP","prova","tirocinio"],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Giorgia Giuseppetti",
+            "email": "giuseppettigiorgia97@gmail.com",
+            "homepage": "https://github.com/gg97g",
+            "role": "Student"
+        }
+    ]
+}
