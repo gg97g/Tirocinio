@@ -12,10 +12,14 @@
             "homepage": "https://github.com/gg97g",
             "role": "Student"
         }
+
     ],
-    "autoload": {
-        "psr-4": {
-            "WomPlatform\\Connector\\": "src"
-        }
-    }
-}
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.4.*"
+      },
+      "autoload": {
+          "psr-4": {
+              "WomPlatform\\Connector\\": "src"
+          }
+      }
