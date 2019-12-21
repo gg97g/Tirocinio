@@ -1,4 +1,4 @@
-<?php namespace womPlatform\Connector;
+<?php namespace womplatform\Connector;
 
 class Connector
 {
